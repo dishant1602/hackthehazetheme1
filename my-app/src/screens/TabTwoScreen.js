@@ -7,7 +7,7 @@ export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
       <WebView
-        source={{ uri: "https://github.com/dishant1602/hackthehazetheme1/blob/main/README.md" }}
+        source={{ uri: "https://www.github.com/dishant1602/hackthehazetheme1/blob/main/README.md" }}
         style={{ flex: 1 }}
         javaScriptEnabled={false}
         scrollEnabled={true}
